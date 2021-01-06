@@ -1,0 +1,8 @@
+name: dart_analysis_options
+
+environment:
+  sdk: ">=2.12.0-0 <3.0.0"
+
+dependencies:
+  yaml: ^2.2.1
+  http: ^0.12.2
